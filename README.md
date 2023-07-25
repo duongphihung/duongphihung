@@ -1,8 +1,8 @@
 
 ```javascript
 const info = {
-	fullName: 'Nguyen Chi Tam',
-	nickname: 'Hikkywanafly',
+	fullName: 'Duong Phi Hung',
+	nickname: 'Kaizuki',
 	age: 'secret',
 	gender: 'male',
 	occupation: 'student',
@@ -42,29 +42,6 @@ console.log(`Nothing special here`);
 
  <br>
  
- <details>
- <summary>See more</summary>
- 
-  ## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
-  
-  
- ## 🔮 Reach me on
- 
-<p align="left">
-<a href="https://twitter.com/tamnguy28327146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamnguy28327146" height="30" width="40" /></a>
-<a href="https://fb.com/Hikkywannafly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hikkywannafly" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/HKjZkkSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HKjZkkSU" height="30" width="40" /></a>
-</p>
- <br>
- 
-<p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&lines=Hello+world!;Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!!;Hallo+Welt!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B8%D1%80!;Bonjour+le+monde!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+%EC%84%B8%EA%B3%84!;I'm+TamNguyen;You+can+call+me+Hikky" alt="animated" />
-</p>
- 
-<p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
-
-<br>
-<br>
 
 ## 🎻 **I'm a music addict**
 
