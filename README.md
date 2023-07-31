@@ -7,7 +7,7 @@ const info = {
 	gender: 'male',
 	occupation: 'student',
 	location: 'nowhere',
-	interestedIn: ['csharp','reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript', 'nestjs'],
+	interestedIn: ['reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript'],
 	email: 'dphung1010@gmail.com'
 };
 ```
