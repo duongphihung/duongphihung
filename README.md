@@ -25,7 +25,7 @@ console.log(`Nothing special here`);
 	
 <br>
 	
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd28yYmdsOXU3OHdjcDZpbHN6c21yanczeG9vM3AwZzl3bTE0dXZmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="55px" height="55px" >&nbsp;
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd28yYmdsOXU3OHdjcDZpbHN6c21yanczeG9vM3AwZzl3bTE0dXZmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="40px" height="40px" >&nbsp;
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55px" height="55px" >&nbsp;
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="55px" height="55px" >&nbsp;
 <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="55px" height="55px" >&nbsp;
