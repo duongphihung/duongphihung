@@ -5,7 +5,7 @@ const info = {
 	nickname: 'Kaizuki',
 	age: 'secret',
 	gender: 'male',
-	occupation: 'student',
+	occupation: 'FrontEnd Developer',
 	location: 'nowhere',
 	interestedIn: ['reactjs', 'nextjs', 'nodejs', 'javascript', 'typescript'],
 	email: 'dphung1010@gmail.com'
